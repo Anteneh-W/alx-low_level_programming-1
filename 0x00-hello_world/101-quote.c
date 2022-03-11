@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /*
- * main- print a quote
+ * main - Prints a quote
  * Return: Alaways 0 (Success)
  */
 int main(void)
