@@ -3,7 +3,7 @@
 
 /**
  * _strlen - returns the length of a string
- * @s - variable of string to be checked
+ * @s: string to be checked
  * Return: length
  */
 
@@ -14,7 +14,7 @@ int _strlen(char *s)
 	while (*s != '\0')
 	{
 		len++;
-		s++;;
+		s++;
 	}
 
 	return (0);
