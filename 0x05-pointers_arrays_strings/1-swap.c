@@ -3,7 +3,7 @@
 /**
  * swap_int - takes two integer values and swap them
  * @a: pointer to first value
- * @a: pointer to second value
+ * @b: pointer to second value
  */ 
 
 void swap_int(int *a, int *b)
