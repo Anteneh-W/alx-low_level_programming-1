@@ -1,5 +1,5 @@
 #include "main.h"
-/** 
+/**
  * puts2 - print other charcter of string starting from first charcter
  * @str: string
  */
